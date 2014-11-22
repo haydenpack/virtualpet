@@ -5,7 +5,7 @@ Virtual Pet
 
 An H. Pack and S. Offen production!
 
-### Push Updates From Cloud9 ###
+### Push Updates From [Cloud9](https://c9.io/) ###
 1. Window > New Terminal
 2. git add [filename]
 3. git commit -m "Commit Message"
