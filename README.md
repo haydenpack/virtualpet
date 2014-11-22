@@ -1,4 +1,8 @@
-virtualpet
-==========
+Virtual Pet
+===========
 
-A fun virtual pet game
+*A Python Virtual Pet Game*
+
+An H. Pack and S. Offen production!
+
+
